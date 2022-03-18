@@ -33,7 +33,7 @@
     <version_id>1.0</version_id>
     <local_identifier>First</local_identifier>
     <submitter_name>Jane Doe</submitter_name>
-    <definition>My first class</definition>
+    <definition>My eighty-fifth class</definition>
     <element_flag>true</element_flag>
     <DD_Association>
       <identifier_reference>my_first_attribute</identifier_reference>
