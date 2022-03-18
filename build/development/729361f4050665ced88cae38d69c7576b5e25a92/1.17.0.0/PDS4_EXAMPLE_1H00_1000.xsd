@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <!-- PDS4 XML/Schema for Name Space Id:example  Version:1.0.0.0 - Fri Mar 18 17:39:17 UTC 2022 -->
+  <!-- PDS4 XML/Schema for Name Space Id:example  Version:1.0.0.0 - Fri Mar 18 18:05:34 UTC 2022 -->
   <!-- Generated from the PDS4 Information Model Version 1.17.0.0 - System Build 12.0 -->
   <!-- *** This PDS4 product schema is an operational deliverable. *** -->
   <!--                                                                           -->
@@ -28,7 +28,7 @@ _TBD_Ingest_LDD
 
   <xs:complexType name="My_First_LDD">
     <xs:annotation>
-<xs:documentation>My first class</xs:documentation>
+<xs:documentation>My eighty-fifth class</xs:documentation>
     </xs:annotation>
     <xs:sequence>
       <xs:element name="my_first_attribute" type="example:my_first_attribute" minOccurs="1" maxOccurs="1"> </xs:element>

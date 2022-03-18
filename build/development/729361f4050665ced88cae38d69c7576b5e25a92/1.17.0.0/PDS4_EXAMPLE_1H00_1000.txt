@@ -7,7 +7,7 @@ Configuration:
    LDD Discipline (T/F):  true
    LDD Namespace URL:     http://pds.nasa.gov/pds4/
    LDD URN Prefix:        urn:nasa:pds:
-   Time                   Fri Mar 18 17:39:17 UTC 2022
+   Time                   Fri Mar 18 18:05:34 UTC 2022
    Common Schema          [PDS4_PDS_1H00.xsd]
    Common Schematron      [PDS4_PDS_1H00.sch]
    IM Version Id:         1.17.0.0
@@ -58,7 +58,7 @@ Parsed Input - Attributes:
 Parsed Input - Classes:
 
    name                   My_First_LDD
-   description            My first class
+   description            My eighty-fifth class
    is abstract            false
    is choice              false
    subclass of            USER
